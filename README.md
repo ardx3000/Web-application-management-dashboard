@@ -10,8 +10,8 @@ In this context, I will demonstrate a management system that manages the availab
 - SQLite for the database.
 - REST API.
  
- ## Requirements
- ### Functional-requirements
+## Requirements
+### Functional-requirements
 - The client should be able to see the available shifts.
 - The client should be able to request a shift modification from the administrator. 
 - The client should be able to book a shift from the client side.
